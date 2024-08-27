@@ -57,8 +57,8 @@ export default function TermsAndConditions() {
             </div>
             <div className="space-y-1">
                 <h2 className="font-semibold">8. Privacidade</h2>
-                <p>Nós valorizamos sua privacidade e estamos comprometidos em proteger suas informações pessoais. Consulte nossa <Link href={'/about/privacy-policy'} className="hover:underline text-blue-500">Política de Privacidade</Link> para mais detalhes.</p>
-                <p> Ao utilizar o Site, você consente com a coleta e uso de informações conforme descrito na <Link href={'/about/privacy-policy'} className="hover:underline text-blue-500">Política de Privacidade</Link>.</p>
+                <p>Nós valorizamos sua privacidade e estamos comprometidos em proteger suas informações pessoais. Consulte nossa <Link href={'/about/privacy-policy'} className="underline">Política de Privacidade</Link> para mais detalhes.</p>
+                <p> Ao utilizar o Site, você consente com a coleta e uso de informações conforme descrito na <Link href={'/about/privacy-policy'} className="underline">Política de Privacidade</Link>.</p>
             </div>
             <div className="space-y-1">
                 <h2 className="font-semibold">9. Limitação de Responsabilidade</h2>

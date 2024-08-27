@@ -19,7 +19,7 @@ export default function ForgotPassword() {
                     <p>Lembrou da senha? <Link href="/" className="underline">Entrar</Link></p>
                 </div>
                     <div className="w-full h-full flex flex-col justify-center space-y-6">
-                    <h1 className="lg:text-3xl text-2xl">Esquceu a senha?</h1>
+                    <h1 className="lg:text-3xl text-2xl">Esqueceu a senha?</h1>
                     <form className="space-y-4">
                         <p>Insira o endereço que usou para se registrar</p>
                         <Input placeholder="Insira o seu email" type="email" className="w-full" required/>
