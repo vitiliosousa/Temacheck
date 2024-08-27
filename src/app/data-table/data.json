@@ -1,0 +1,112 @@
+[
+  {
+    "nome": "Cerlo Henrique",
+    "titulo": "Dimensionamento de uma rede 5G para a provincia de Sofala",
+    "status": "Aprovado",
+    "curso": "LECC",
+    "data": "2023-06-25",
+    "problema": "Exploração de dados",
+    "objetivoEspecifico": "Desenvolver um modelo preditivo",
+    "objetivoGeral": "Analisar dados de mercado"
+  },
+  {
+    "nome": "Monkey the Luff",
+    "titulo": "Desenvolvimento de um aplicativo para centralizar informações no ISUTC",
+    "status": "Reprovado",
+    "curso": "LEIT",
+    "data": "2024-06-24",
+    "problema": "Segurança de transações",
+    "objetivoEspecifico": "Implementar um protocolo seguro",
+    "objetivoGeral": "Melhorar a segurança nas transações digitais"
+  },{
+    "nome": "Melanie Nhanzilo",
+    "titulo": "Concepção de um aplicativo para ajudar no ensino MODDLE",
+    "status": "Aprovado",
+    "curso": "LEMT",
+    "data": "2024-03-05",
+    "problema": "Exploração de dados",
+    "objetivoEspecifico": "Desenvolver um modelo preditivo",
+    "objetivoGeral": "Analisar dados de mercado"
+  },{
+    "nome": "Americo Francisco",
+    "titulo": "Desenvolvimento de um aplicativo para publicação de eventos academicos",
+    "status": "Pendente",
+    "curso": "LEA",
+    "data": "2024-04-12",
+    "problema": "Exploração de dados",
+    "objetivoEspecifico": "Desenvolver um modelo preditivo",
+    "objetivoGeral": "Analisar dados de mercado"
+  },{
+    "nome": "Isha Subhash",
+    "titulo": "Concepção de um aplicativo de integração com o PayPal",
+    "status": "Aprovado",
+    "curso": "LGBS",
+    "data": "2024-05-20",
+    "problema": "Exploração de dados",
+    "objetivoEspecifico": "Desenvolver um modelo preditivo",
+    "objetivoGeral": "Analisar dados de mercado"
+  },{
+    "nome": "Shirley Zavale",
+    "titulo": "Desenvolvimento de aplicativo para gestão de contas bancarias",
+    "status": "Pendente",
+    "curso": "LGF",
+    "data": "2024-06-08",
+    "problema": "Exploração de dados",
+    "objetivoEspecifico": "Desenvolver um modelo preditivo",
+    "objetivoGeral": "Analisar dados de mercado"
+  },{
+    "nome": "Helton Santos",
+    "titulo": "Desenvolvimento de um aplicativo para transferencias no Mpesa usando NFC",
+    "status": "Pendente",
+    "curso": "LCA",
+    "data": "2023-06-25",
+    "problema": "Exploração de dados",
+    "objetivoEspecifico": "Desenvolver um modelo preditivo",
+    "objetivoGeral": "Analisar dados de mercado"
+  },{
+    "nome": "Cole Sinclair",
+    "titulo": "Proposta de implementação de um aplicativo para melhorar a segurança cibernetica",
+    "status": "Reprovado",
+    "curso": "LEIT",
+    "data": "2023-06-25",
+    "problema": "Exploração de dados",
+    "objetivoEspecifico": "Desenvolver um modelo preditivo",
+    "objetivoGeral": "Analisar dados de mercado"
+  },{
+    "nome": "Vanessa Machava",
+    "titulo": "Desenvolvimento de um aplicativo que permite gerir multiempregos",
+    "status": "Reprovado",
+    "curso": "LEA",
+    "data": "2023-06-25",
+    "problema": "Exploração de dados",
+    "objetivoEspecifico": "Desenvolver um modelo preditivo",
+    "objetivoGeral": "Analisar dados de mercado"
+  },{
+    "nome": "Rita Matola",
+    "titulo": "Proposta de implementação de um aplicativo para melhorar a segurança cibernetica",
+    "status": "Pendente",
+    "curso": "LCA",
+    "data": "2023-06-25",
+    "problema": "Exploração de dados",
+    "objetivoEspecifico": "Desenvolver um modelo preditivo",
+    "objetivoGeral": "Analisar dados de mercado"
+  },{
+    "nome": "Monkey the Luff",
+    "titulo": "Proposta de implementação de um aplicativo para melhorar a segurança cibernetica",
+    "status": "Pendente",
+    "curso": "LECC",
+    "data": "2023-06-25",
+    "problema": "Exploração de dados",
+    "objetivoEspecifico": "Desenvolver um modelo preditivo",
+    "objetivoGeral": "Analisar dados de mercado"
+  },{
+    "nome": "Menchas Bebedor Pasta",
+    "titulo": "Proposta de implementação de um aplicativo para melhorar a segurança cibernetica",
+    "status": "Aprovado",
+    "curso": "LGBS",
+    "data": "2023-06-25",
+    "problema": "Exploração de dados",
+    "objetivoEspecifico": "Desenvolver um modelo preditivo",
+    "objetivoGeral": "Analisar dados de mercado"
+  }
+]
