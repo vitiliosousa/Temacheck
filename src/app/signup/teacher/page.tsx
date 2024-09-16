@@ -34,7 +34,7 @@ export default function Student() {
             <Input placeholder="Confirmar senha" type="password" required/>
             <div className="w-full flex items-center gap-2">
               <Checkbox required/>
-              <p>Eu concordo com os <Link href="/about/terms-and-conditions" className="font-semibold hover:underline">Termos e Condições</Link></p>
+              <p>Eu concordo com os <Link href="/about/terms-and-conditions" className="underline">Termos e Condições</Link></p>
             </div>
             <Button type="submit" className="w-full" onClick={signin}>Continuar</Button>
           </form>

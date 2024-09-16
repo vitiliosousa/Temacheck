@@ -46,7 +46,7 @@ export function ValidateTheme({ data, onClose }: ValidateThemeProps) {
         </div>
         <DialogFooter>
           <Button type="button" onClick={onClose} className="gap-2">
-            Enviar
+            Confirmar
           </Button>
         </DialogFooter>
       </DialogContent>

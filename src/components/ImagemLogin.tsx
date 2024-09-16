@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Login from '../../public/login.svg'
+import Login from '../../public/Temacheck.svg'
 import {ModeToggle} from "@/components/ModeToggle";
 export default function ImagemLogin() {
   return (

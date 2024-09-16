@@ -14,11 +14,11 @@ export function ValidateSelect() {
   return (
     <Select>
       <SelectTrigger className="w-[180px]">
-        <SelectValue placeholder="Pendente" />
+        <SelectValue placeholder="Avaliar" />
       </SelectTrigger>
       <SelectContent>
         <SelectGroup>
-          <SelectLabel>Avaliar</SelectLabel>
+          <SelectLabel>Status</SelectLabel>
           <SelectItem value="Aprovado">Aprovado</SelectItem>
           <SelectItem value="Reprovado">Reprovado</SelectItem>
         </SelectGroup>
