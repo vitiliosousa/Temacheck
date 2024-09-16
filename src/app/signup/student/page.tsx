@@ -28,12 +28,12 @@ export default function Student() {
           <hr />
           <form className="space-y-4">
             <p>Ou criar conta com o seu email</p>
-            <Input placeholder="Nome" type="text" required/>
-            <Input placeholder="Email" type="email" required/>
-            <Input placeholder="Senha" type="password" required/>
-            <Input placeholder="Confirmar senha" type="password" required/>
+            <Input placeholder="Nome" type="text"/>
+            <Input placeholder="Email" type="email"/>
+            <Input placeholder="Senha" type="password"/>
+            <Input placeholder="Confirmar senha" type="password"/>
             <div className="w-full flex items-center gap-2">
-              <Checkbox required/>
+              <Checkbox/>
               <p>Eu concordo com os <Link href="/about/terms-and-conditions" className="font-semibold hover:underline">Termos e Conditições</Link></p>
             </div>
             <Button type="submit" className="w-full" onClick={sign}>Continuar</Button>

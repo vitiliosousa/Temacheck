@@ -22,7 +22,7 @@ export default function ForgotPassword() {
                     <h1 className="lg:text-3xl text-2xl">Esqueceu a senha?</h1>
                     <form className="space-y-4">
                         <p>Insira o endereço que usou para se registrar</p>
-                        <Input placeholder="Insira o seu email" type="email" className="w-full" required/>
+                        <Input placeholder="Insira o seu email" type="email" className="w-full"/>
                         <Button type="submit" className="w-full" onClick={otp}>Enviar codigo</Button>
                         <p className="text-center text-muted-foreground">Um codigo foi enviado para o seu email</p>
                     </form>

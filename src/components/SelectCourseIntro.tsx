@@ -2,7 +2,7 @@ import {Select,SelectContent,SelectItem,SelectTrigger,SelectValue} from "@/compo
 
 export default function SelectCourse() {
     return(
-        <Select required>
+        <Select>
             <SelectTrigger className="w-full">
                 <SelectValue placeholder="Selecione o seu curso" />
             </SelectTrigger>

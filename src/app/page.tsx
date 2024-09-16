@@ -28,8 +28,8 @@ export default function Home() {
           <hr />
           <form className="space-y-4">
             <p className="text-sm md:text-base">Ou continue com o seu endereço de email</p>
-            <Input placeholder="Email" type="email" required />
-            <Input placeholder="Senha" type="password" required />
+            <Input placeholder="Email" type="email"/>
+            <Input placeholder="Senha" type="password"/>
             <div className="flex justify-between items-center pb-4">
               <div className="flex items-center justify-center gap-2">
                 <Checkbox />
